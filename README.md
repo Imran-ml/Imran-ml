@@ -15,8 +15,8 @@ findings to non-technical stakeholders.
 
 ---
 I'm currently:
-- 👩‍💻a Kaggle Grandmaster
-- 👩‍💻a Generative ai expert
+-   a Kaggle Grandmaster
+-   a Generative ai expert
 - 🌱Learning new skills with the latest advancements on the world 
 - 👯 Mentor at KaggleX
 ---
