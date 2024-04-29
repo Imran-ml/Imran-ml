@@ -1,8 +1,8 @@
 <h2 align="center">Hi there 👋</h2>
 
 ---
-Passionate Machine Learning Engineer with 7 years of experience in designing, implementing,
-and optimizing cutting-edge AI solutions using Machine Learning and Deep Learning
+I'm a passionate Machine Learning Engineer with 7 years of experience in designing, implementing,
+and optimizing cutting-edge AI solutions using Machine Learning, Deep Learning and Generative ai
 approaches for various industries and companies, including healthcare, manufacturing, finance
 and data management. Aiming to apply strong analytical and technical expertise to drive
 business decisions, develop data-driven insights and collaborate with cross-functional teams
