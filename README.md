@@ -1,13 +1,7 @@
 <h2 align="center">Hi there 👋</h2>
 
 ---
-I'm a passionate Machine Learning Engineer with 7 years of experience in designing, implementing,
-and optimizing cutting-edge AI solutions using Machine Learning, Deep Learning and Generative ai
-approaches for various industries and companies, including healthcare, manufacturing, finance
-and data management. Aiming to apply strong analytical and technical expertise to drive
-business decisions, develop data-driven insights and collaborate with cross-functional teams
-to build robust data pipelines and models, while effectively communicating complex data
-findings to non-technical stakeholders.
+Results-driven Machine Learning Engineer with 7+ years of experience in AI solutions, specializing in deep learning, NLP and computer vision. Proven track record in boosting business performance through innovative generative AI models and end-to-end ML pipelines. Skilled in leading teams and collaborating with cross-functional stakeholders to deliver scalable solutions. Kaggle Grandmaster and top performer in global AI challenges, committed to staying at the forefront of AI advancements.
 
 <p align=center>
 <a href="https://www.kaggle.com/muhammadimran112233"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
