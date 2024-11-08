@@ -9,10 +9,13 @@ Results-driven Machine Learning Engineer with 7+ years of experience leading tea
 
 ---
 I'm currently:
--   a Kaggle Grandmaster
--   a Generative ai expert
-- 🌱Learning new skills with the latest advancements on the world 
-- 👯 Mentor at KaggleX
+-   Lead Machine Learning Engineer at Docufy (Theum AG)
+-   Kaggle Grandmaster at Kaggle
+-   Generative ai expert
+-   Advisor at KaggleX organised by Google
+-   Medium Blog writer
+-   Top voice at LinkedIn
+-   Learning new skills with the latest advancements on the world 
 ---
 
 Recent work:
