@@ -21,6 +21,7 @@ I'm currently:
 Recent work:
 - <a href="https://github.com/Imran-ml/WebGPT-Your-AI-Assistant-for-Web-Content">Web GPT: AI Assistant for Web Content using RAG Approach</a>
 - <a href="https://huggingface.co/ImranzamanML/GEFS-language-detector">GEFS Langauge Detector LLM Model</a>
+- <a href="https://github.com/Imran-ml/llama-chatbot-dockerized"> Llama 3 Chatbot with Docker </a>
 - Guest Speaker at the KaggleX
 
 ---
